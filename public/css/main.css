@@ -1,0 +1,16 @@
+.box {
+	width: 100px;
+	height: 100px;
+}
+
+.attachment {
+	background: url("../images/attachment-icon.png") no-repeat;
+}
+
+.star {
+	background: url("../images/star.png") no-repeat;
+}
+
+.success {
+	background: url("../images/success.png") no-repeat;
+}
